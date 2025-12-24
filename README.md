@@ -61,7 +61,6 @@ The system is designed to be **scalable, user-centric, and easy to integrate** w
 ---
 
 ## 🏗️ System Architecture
-
 NIDAAN-App/
 │
 ├── lib/
@@ -88,7 +87,6 @@ NIDAAN-App/
 │ └── icons/
 │
 └── pubspec.yaml
-
 ---
 
 ## 🛠️ Tech Stack
