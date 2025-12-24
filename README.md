@@ -61,32 +61,7 @@ The system is designed to be **scalable, user-centric, and easy to integrate** w
 ---
 
 ## 🏗️ System Architecture
-NIDAAN-App/
-│
-├── lib/
-│ ├── screens/
-│ │ ├── login.dart
-│ │ ├── home.dart
-│ │ ├── report_issue.dart
-│ │ ├── issue_status.dart
-│ │
-│ ├── models/
-│ │ ├── issue_model.dart
-│ │
-│ ├── services/
-│ │ ├── auth_service.dart
-│ │ ├── issue_service.dart
-│ │
-│ ├── widgets/
-│ │ ├── issue_card.dart
-│ │
-│ └── main.dart
-│
-├── assets/
-│ ├── images/
-│ └── icons/
-│
-└── pubspec.yaml
+
 ---
 
 ## 🛠️ Tech Stack
@@ -106,13 +81,14 @@ NIDAAN-App/
 ### Clone the Repository
 git clone[ https://github.com/aayush579/NIDAAN_APP.git
 cd NIDAAN-App
+
 Install Dependencies
 ### bash
 flutter pub get
 Run the Application
-bash
-Copy code
+
 flutter run
+
 🧪 Application Workflow
 User logs in / registers
 
@@ -159,8 +135,7 @@ Primary Language: C++
 Mobile Development: Flutter (Dart)
 Interests: Civic Tech, Mobile Applications, Software Engineering
 
-GitHub: https://github.com/your-username
-
+GitHub: https://github.com/aayush579
 ⭐ Acknowledgements
 Inspired by real-world civic challenges and smart city initiatives.
 
