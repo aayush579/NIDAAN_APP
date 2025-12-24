@@ -89,9 +89,6 @@ NIDAAN-App/
 │
 └── pubspec.yaml
 
-yaml
-Copy code
-
 ---
 
 ## 🛠️ Tech Stack
@@ -109,11 +106,10 @@ Copy code
 ## 🚀 Setup & Execution
 
 ### Clone the Repository
-git clone https://github.com/your-username/NIDAAN-App.git
+git clone[ https://github.com/aayush579/NIDAAN_APP.git
 cd NIDAAN-App
 Install Dependencies
-bash
-Copy code
+### bash
 flutter pub get
 Run the Application
 bash
